@@ -70,3 +70,13 @@ ul {
   align-items: center;
   padding-right: 1rem;
 }
+
+footer {
+  height: 80px;
+  width: 100%;
+  color: whitesmoke;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
